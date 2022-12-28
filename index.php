@@ -113,7 +113,7 @@ echo $pesan;
         if(!empty($_Post['submit'] )) {
 
             switch($_Post['nama']) {
-                case "Putri";
+                case "Putri Ester";
                     echo $nama." adalah orang Tondano"
                 break;
                 case "Saron"
