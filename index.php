@@ -75,10 +75,10 @@ if ($nama == "Virginia") {
   */  
   /*
 switch($nama) {
-    case "Virginia";
+    case "Putri";
     echo $nama." adalah orang manado";
     break;
-    case "Justin"
+    case "virginia"
         echo $nama." adalah orang manado"
     break;
     default: 
@@ -113,10 +113,10 @@ echo $pesan;
         if(!empty($_Post['submit'] )) {
 
             switch($_Post['nama']) {
-                case "Putri Ester";
+                case "Putri Ester maweru";
                     echo $nama." adalah orang Tondano"
                 break;
-                case "Saron"
+                case "Saron tandiapa"
                     echo $nama." adalah orang Wulauan"
                 break;
                 default: 
