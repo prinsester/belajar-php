@@ -75,11 +75,11 @@ if ($nama == "Virginia") {
   */  
   /*
 switch($nama) {
-    case "Putri";
-    echo $nama." adalah orang manado";
+    case "Putri Ester Maweru";
+    echo $nama." adalah orang tondano";
     break;
-    case "virginia"
-        echo $nama." adalah orang manado"
+    case "Solagratia Saron Tandiapa"
+        echo $nama." adalah orang wulauan"
     break;
     default: 
         $pesan - $nama." darimana ya?";
@@ -116,7 +116,7 @@ echo $pesan;
                 case "Putri Ester maweru";
                     echo $nama." adalah orang Tondano"
                 break;
-                case "Saron tandiapa"
+                case "Solagratia Saron tandiapa"
                     echo $nama." adalah orang Wulauan"
                 break;
                 default: 
